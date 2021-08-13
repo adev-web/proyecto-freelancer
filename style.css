@@ -154,7 +154,7 @@ h1 span {
 --------------------------------------------------------------------
 */
 .hero {
-  background-image: url(img/hero.jpg);
+  background-image: url(img/fondo.webp);
   background-repeat: no-repeat;
   background-size: cover;
   height: 45rem;
